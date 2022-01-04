@@ -34,6 +34,7 @@ const AppImmageTitle = ({ title, url }) => {
         }}>
         {title}
       </div>
+      <h1 className="text-3xl font-bold underline text-sky-400">Hello worlds!</h1>
     </div>
   )
 }

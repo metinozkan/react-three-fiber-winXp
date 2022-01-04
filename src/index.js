@@ -12,7 +12,7 @@ import { FXAAShader } from 'three/examples/jsm/shaders/FXAAShader'
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader'
 import { DRACOLoader } from 'three/examples/jsm/loaders/DRACOLoader'
 import { AdditiveBlendingShader, VolumetricLightShader } from './shaders'
-import './styles.css'
+import './index.css'
 import AppImmageTitle from './components/AppImageTitle'
 
 extend({ EffectComposer, RenderPass, ShaderPass })
